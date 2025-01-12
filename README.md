@@ -5,8 +5,6 @@ Tucson, Arizona.
 # How I got my data
 Data source, info, etc
 
-[NBA.com](https://www.nba.com/)
-
 # Analysis
 I found this
 - Point 1
